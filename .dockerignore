@@ -1,0 +1,9 @@
+*.json
+.git
+__pycache__/
+*.ipynb
+venv/
+config/
+data/
+app/data/
+app/config/

@@ -1,0 +1,12 @@
+[theme]
+base = "light"
+
+[runner]
+# Default: true
+fastReruns = false
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
